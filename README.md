@@ -1,7 +1,7 @@
 # 42_ft_printf
 Project developed during the Common Core @ 42 Porto
 
-## Libft
+## ft_printf
 Because ft_putnbr() and ft_putstr() aren’t enough
 
 ### Summary:
