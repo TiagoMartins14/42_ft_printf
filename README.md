@@ -23,7 +23,7 @@ To compile the library, go to its path and run:
 For all mandatory functions:
 
 ```shell
-$ make
+$> make
 ```
 
 **2. Using it in your code**
